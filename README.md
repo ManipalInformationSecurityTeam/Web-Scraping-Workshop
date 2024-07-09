@@ -2,7 +2,7 @@
 
 Welcome members of MIST
 
-This is the Repository containing the codes/files used in the Workshop, hosted by Vanshaj Rai  <a href="https://github.com/V4NSH4J">Github</a>.
+This is the Repository containing the codes/files used in the Workshop, hosted by <a href="https://github.com/V4NSH4J">Vanshaj Rai</a>.
 
 We have implemented a Web Scraper on Flipkart which returns all the prices of a particular product
 
